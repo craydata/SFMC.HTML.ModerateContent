@@ -1,6 +1,7 @@
 # SFMC.HTML.ModerateContent
 
-<img width="1680" alt="Screenshot 2022-01-27 at 11 29 08 PM" src="https://user-images.githubusercontent.com/95032838/151490556-3d096892-c936-4be6-b487-74d18f968a1f.png">
+
+<img width="1680" alt="Screenshot 2022-01-28 at 12 09 43 AM" src="https://user-images.githubusercontent.com/95032838/151490837-89d88d0e-09cc-4b64-8e65-c9ab162df5c4.png">
 
 #
 ```
